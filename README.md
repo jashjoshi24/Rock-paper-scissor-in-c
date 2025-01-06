@@ -40,7 +40,7 @@ You can play up to 5 rounds, or exit the game anytime by choosing 3 when prompte
 
 
 
-For detailed instructions and the full code, visit the [GitHub Repository](#). 🌐
+For detailed instructions and the full code, visit this link : https://github.com/jashjoshi24/Rock-paper-scissor-in-c.git 🌐
 
 ---
 
